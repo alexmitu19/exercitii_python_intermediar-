@@ -1,0 +1,7 @@
+2024-04-29 19:15:18.445820 - add_tasks - (' CAAS', 'Sas', 'SDADSASD', 'DASDSA', 'SADAS')
+2024-04-29 19:16:53.822014 - add_tasks - ('DA', 'DASD', 'DADS', 'DASD', '4')
+2024-04-30 16:03:16.996680 - add_tasks - ('mk', 'fkl', 'jll', 'jn', 'complete')
+2024-04-30 16:03:57.756223 - add_tasks - ('mj', 'ml', 'lmm;', 'k', 'k')
+2024-04-30 16:04:01.286823 - view_tasks - ()
+2024-04-30 16:04:29.321708 - update_task - (2, ',mmnm', 'klm', 'mklm', '\\,l', 'kkl')
+2024-04-30 16:04:34.749837 - delete_task - (0,)
